@@ -3,6 +3,8 @@
 <!-- note -->
 
 <html lang="zh-CN">
+
+
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
@@ -11,7 +13,7 @@
 
 
 	<title>
-雪上加霜</title>
+ 雪上加霜 2017-10-19 </title>
 
 
 </head>
@@ -20,6 +22,9 @@
 
 
 <div>
+
+<p>2017-10-19</p>
+
 
 <p><strong>股市的起起伏伏，归根结底，利益的博弈。与不熟知规则的大多数股民而言，是博弈。与掌握了规则甚至是知晓股市缺陷的人而言，不过是提款机罢了。</strong></p>
 
@@ -32,37 +37,37 @@
 
 <p>1、搭讪，美女主动撩屌丝</p>
 
-<p><img alt="图片说明" src="./screenshot/20171019_191516.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_191516.png" title="标题"></p>
 
 
 
 
-<p><img alt="图片说明" src="./screenshot/20171019_191549.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_191549.png" title="标题"></p>
 
 
 
-<p><img alt="图片说明" src="./screenshot/20171019_191606.png" title="标题"></p>
-<p><img alt="图片说明" src="./screenshot/20171019_191618.png" title="标题"></p>
-<p><img alt="图片说明" src="./screenshot/20171019_191637.png" title="标题"></p>
-<p><img alt="图片说明" src="./screenshot/20171019_191645.png" title="标题"></p>
-<p><img alt="图片说明" src="./screenshot/20171019_191658.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_191606.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_191618.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_191637.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_191645.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_191658.png" title="标题"></p>
 
 <p>2、思绪：切，我自己就可以买到好股票</p>
-<p><img alt="图片说明" src="./screenshot/20171019_191713.png" title="标题"></p>
-<p><img alt="图片说明" src="./screenshot/20171019_191723.png" title="标题"></p>
-<p><img alt="图片说明" src="./screenshot/20171019_191913.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_191713.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_191723.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_191913.png" title="标题"></p>
 
 <p>3、思绪：我去，一天拉升6%以上，收益一半，不管赚多少，至少是盈利的。要不试试呗，少买点，就算亏了，股票还在我手里，卖了就是。好，入！</p>
 
 
-<p><img alt="图片说明" src="./screenshot/20171019_191937.png" title="标题"></p>
-<p><img alt="图片说明" src="./screenshot/20171019_192011.png" title="标题"></p>
-<p><img alt="图片说明" src="./screenshot/20171019_192032.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_191937.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_192011.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_192032.png" title="标题"></p>
 
-<p><img alt="图片说明" src="./screenshot/20171018_131207.png" title="标题"></p>
-<p><img alt="图片说明" src="./screenshot/20171019_192044.png" title="标题"></p>
-<p><img alt="图片说明" src="./screenshot/20171019_192052.png" title="标题"></p>
-<p><img alt="图片说明" src="./screenshot/20171019_192101.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171018_131207.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_192044.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_192052.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_192101.png" title="标题"></p>
 
 
 
@@ -70,11 +75,11 @@
 
 
 
-<p><img alt="图片说明" src="./screenshot/20171019_192115.png" title="标题"></p>
-<p><img alt="图片说明" src="./screenshot/20171019_192125.png" title="标题"></p>
-<p><img alt="图片说明" src="./screenshot/20171019_192149.png" title="标题"></p>
-<p><img alt="图片说明" src="./screenshot/20171019_192156.png" title="标题"></p>
-<p><img alt="图片说明" src="./screenshot/20171018_140007.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_192115.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_192125.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_192149.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_192156.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171018_140007.png" title="标题"></p>
 
 
 <p>5、今天一早。思绪：你们卖消息，我出资取收益，如果我赚了得要有信誉，收益对半平分。这样,我只要再找几个下家，收益我拿一半。很快就赚发了。不行，我先试试看，若是赚了
@@ -86,8 +91,8 @@
 
 
 
-<p><img alt="图片说明" src="./screenshot/20171019_183353.png" title="标题"></p>
-<p><img alt="图片说明" src="./screenshot/20171019_183439.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_183353.png" title="标题"></p>
+<p><img alt="图片说明" src="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/20171019_183439.png" title="标题"></p>
 <p>7、结果收盘。跌停卖不掉。预计明天，如果幸运的话，按跌停价-10%卖出，亏损近-4000元。不卖，继续持有，预计亏12000不成问题。</p>
 <p>8、冷静分析，预计它们昨天大量资金申请合并赎回。拉人砸盘，维持高价，牟取暴利。我就是那“幸运的”高位接盘者之一。今天到中午，他们高价清仓。收盘前还极其恶心的以跌停价抛售，引起恐慌，打开跌停。细思，着实可恶！可恨！可耻！</p>
 
@@ -145,7 +150,7 @@
 
 <div>
 
-<p style="text-align:justify">如何维持市场股价的稳定：<a target="_blank" href="https://www.baidu.com">test.txt</a></p>
+<p style="text-align:justify">链接：<a target="_blank" href="https://raw.githubusercontent.com/StockAdviser/StockAdvise/master/screenshot/keepstable/如何维持市场股价的稳定.png">如何维持市场股价的稳定</a></p>
 
 </div>
 
